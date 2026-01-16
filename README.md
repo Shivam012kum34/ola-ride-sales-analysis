@@ -10,11 +10,14 @@ revenue behavior, and peak-hour inefficiencies.
 - Power BI
 
 ## Key Analysis
-- Demand vs time
-- Revenue distribution
-- Peak hour trends
-- Customer behavior patterns
+- Analyzed ride demand variation across different hours and days to identify peak and off-peak periods.
+- Studied revenue distribution to understand high-value rides and booking patterns.
+- Identified peak-hour inefficiencies affecting ride availability and pricing.
+- Observed customer booking behavior to highlight repeat usage patterns.
+
 
 ## Outcome
-Generated actionable insights to support pricing optimization
-and operational efficiency.
+Derived actionable insights to support pricing optimization,
+better driver allocation during peak hours,
+and improved operational efficiency.
+
