@@ -1,0 +1,31 @@
+Date,Time,Booking_ID,Booking_Status,Customer_ID,Vehicle_Type,Pickup_Location,Drop_Location,V_TAT,C_TAT,Canceled_Rides_by_Customer,Canceled_Rides_by_Driver,Incomplete_Rides,Incomplete_Rides_Reason,Booking_Value,Payment_Method,Ride_Distance,Driver_Ratings,Customer_Rating,Vehicle Images
+2025-11-09 00:00:00,14:00:00,CNR7153255142,Canceled by Driver,CID713523,Prime Sedan,Tumkur Road,RT Nagar,,,,Personal & Car related issue,,,444,,0,,,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+2024-07-25 22:20:00,22:20:00,CNR2940424040,Success,CID225428,Bike,Magadi Road,Varthur,203.0,30.0,,,No,,158,Cash,13,4.1,4.0,https://cdn-icons-png.flaticon.com/128/9983/9983173.png
+2024-07-30 19:59:00,19:59:00,CNR2982357879,Success,CID270156,Prime SUV,Sahakar Nagar,Varthur,238.0,130.0,,,No,,386,UPI,40,4.2,4.8,https://cdn-icons-png.flaticon.com/128/9983/9983204.png
+2024-07-22 03:15:00,03:15:00,CNR2395710036,Canceled by Customer,CID581320,eBike,HSR Layout,Vijayanagar,,,Driver is not moving towards pickup location,,,,384,,0,,,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+2024-07-02 09:02:00,09:02:00,CNR1797421769,Success,CID939555,Mini,Rajajinagar,Chamarajpet,252.0,80.0,,,No,,822,Credit Card,45,4.0,3.0,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+2024-07-13 04:42:00,04:42:00,CNR8787177882,Success,CID802429,Mini,Kadugodi,Vijayanagar,231.0,90.0,,,No,,173,UPI,41,3.4,4.6,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+2024-07-23 09:51:00,09:51:00,CNR3612067560,Success,CID476071,Bike,Tumkur Road,Whitefield,133.0,40.0,,,No,,140,Cash,49,3.2,4.5,https://cdn-icons-png.flaticon.com/128/9983/9983173.png
+2024-07-11 11:12:00,11:12:00,CNR5374902489,Canceled by Driver,CID735691,Prime Plus,Bannerghatta Road,Sarjapur Road,,,,Personal & Car related issue,,,344,,0,,,https://cdn-icons-png.flaticon.com/128/11409/11409716.png
+2024-07-01 19:19:00,19:19:00,CNR5030602354,Driver Not Found,CID999840,Mini,Chamarajpet,Peenya,,,,,,,839,,0,,,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+2024-07-18 01:31:00,01:31:00,CNR6328453219,Canceled by Driver,CID907133,Auto,RT Nagar,Varthur,,,,Personal & Car related issue,,,893,,0,,,https://cdn-icons-png.flaticon.com/128/16526/16526595.png
+2024-07-29 23:33:00,23:33:00,CNR4787583516,Success,CID923404,Prime Plus,Hosur Road,Jayanagar,35.0,55.0,,,No,,164,Cash,46,4.5,3.4,https://cdn-icons-png.flaticon.com/128/11409/11409716.png
+2024-07-26 04:03:00,04:03:00,CNR7943634301,Success,CID647026,Prime Plus,Kammanahalli,Rajajinagar,238.0,95.0,,,No,,399,Cash,18,3.9,4.4,https://cdn-icons-png.flaticon.com/128/11409/11409716.png
+2024-07-27 13:18:00,13:18:00,CNR4524472111,Success,CID540929,Auto,Cox Town,Yelahanka,126.0,35.0,,,No,,330,UPI,8,3.0,4.8,https://cdn-icons-png.flaticon.com/128/16526/16526595.png
+2024-07-17 18:55:00,18:55:00,CNR3914552212,Canceled by Driver,CID557845,Auto,Hosur Road,Banashankari,,,,Personal & Car related issue,,,427,,0,,,https://cdn-icons-png.flaticon.com/128/16526/16526595.png
+2024-07-16 09:54:00,09:54:00,CNR8181602032,Success,CID167642,Bike,Indiranagar,MG Road,70.0,95.0,,,No,,378,UPI,18,4.8,4.1,https://cdn-icons-png.flaticon.com/128/9983/9983173.png
+2024-07-02 10:25:00,10:25:00,CNR8090918544,Success,CID640151,Bike,Magadi Road,HSR Layout,126.0,95.0,,,No,,343,UPI,23,3.7,3.6,https://cdn-icons-png.flaticon.com/128/9983/9983173.png
+2024-07-02 23:50:00,23:50:00,CNR3211335290,Driver Not Found,CID630354,Mini,Ramamurthy Nagar,BTM Layout,,,,,,,366,,0,,,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+2024-07-05 23:42:00,23:42:00,CNR3196156650,Success,CID243275,Bike,Electronic City,Langford Town,140.0,40.0,,,No,,401,Cash,8,3.3,3.9,https://cdn-icons-png.flaticon.com/128/9983/9983173.png
+2024-07-09 11:11:00,11:11:00,CNR9975925287,Success,CID162055,Prime SUV,Magadi Road,RT Nagar,42.0,30.0,,,No,,343,UPI,17,3.0,3.8,https://cdn-icons-png.flaticon.com/128/9983/9983204.png
+2024-07-12 14:44:00,14:44:00,CNR1591113431,Success,CID902781,eBike,Koramangala,Sarjapur Road,245.0,70.0,,,No,,2014,Cash,33,4.2,4.9,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+2024-07-11 20:42:00,20:42:00,CNR3650331573,Success,CID217093,eBike,Basavanagudi,Hulimavu,84.0,25.0,,,No,,650,Cash,34,4.9,3.4,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+2024-07-08 22:33:00,22:33:00,CNR6013805089,Success,CID817034,Prime Sedan,Padmanabhanagar,Jayanagar,168.0,65.0,,,No,,231,Cash,2,3.2,3.7,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+2024-07-16 10:17:00,10:17:00,CNR4306636052,Canceled by Driver,CID103842,Prime SUV,Mysore Road,Vijayanagar,,,,Customer was coughing/sick,,,909,,0,,,https://cdn-icons-png.flaticon.com/128/9983/9983204.png
+2024-07-03 18:20:00,18:20:00,CNR9832070187,Success,CID655872,Bike,Koramangala,BTM Layout,231.0,145.0,,,No,,189,Cash,6,4.9,3.3,https://cdn-icons-png.flaticon.com/128/9983/9983173.png
+2024-07-03 21:17:00,21:17:00,CNR5620539253,Success,CID290480,Prime Plus,Mysore Road,Sahakar Nagar,56.0,105.0,,,No,,311,Cash,28,4.3,3.0,https://cdn-icons-png.flaticon.com/128/11409/11409716.png
+2024-07-19 21:18:00,21:18:00,CNR4443921904,Success,CID654618,Mini,Tumkur Road,Koramangala,231.0,50.0,,,No,,286,UPI,44,4.0,3.3,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+2024-07-25 03:44:00,03:44:00,CNR7194303296,Success,CID538245,Mini,Mysore Road,Hennur,175.0,50.0,,,No,,141,UPI,35,4.7,3.1,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+2024-07-15 17:11:00,17:11:00,CNR6494005067,Success,CID805360,Auto,Yelahanka,Malleshwaram,84.0,60.0,,,No,,214,UPI,2,3.3,4.5,https://cdn-icons-png.flaticon.com/128/16526/16526595.png
+2024-07-30 19:44:00,19:44:00,CNR6805579107,Success,CID810214,Prime SUV,Indiranagar,Indiranagar,35.0,145.0,,,No,,2183,Cash,20,4.0,4.4,https://cdn-icons-png.flaticon.com/128/9983/9983204.png
+2024-07-21 08:26:00,08:26:00,CNR6003663433,Canceled by Customer,CID350426,Prime Plus,Rajajinagar,Chamarajpet,,,Driver asked to cancel,,,,604,,0,,,https://cdn-icons-png.flaticon.com/128/11409/11409716.png

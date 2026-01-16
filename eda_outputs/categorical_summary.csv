@@ -1,0 +1,14 @@
+,count,unique,top,freq
+Time,103024,1440,00:53:00,101
+Booking_ID,103024,103024,CNR7153255142,1
+Booking_Status,103024,4,Success,63967
+Customer_ID,103024,94544,CID954071,5
+Vehicle_Type,103024,7,Prime Sedan,14877
+Pickup_Location,103024,50,Banashankari,2201
+Drop_Location,103024,50,Peenya,2159
+Canceled_Rides_by_Customer,10499,5,Driver is not moving towards pickup location,3175
+Canceled_Rides_by_Driver,18434,4,Personal & Car related issue,6542
+Incomplete_Rides,63967,2,No,60041
+Incomplete_Rides_Reason,3926,3,Customer Demand,1601
+Payment_Method,63967,4,Cash,35022
+Vehicle Images,103024,7,https://cdn-icons-png.flaticon.com/128/14183/14183770.png,14877
